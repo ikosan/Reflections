@@ -1,0 +1,8 @@
+1) it helped me compare all differences of the files
+2) it helps me see the progres in time and possible improvements
+3) dynamic saving
+4) coding files are interrelated
+5) git log -> shows me all commits and commit ids
+	git diff -> compares two commits by the given commit ids
+6) i can always revert things
+7) create a new repository
