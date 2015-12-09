@@ -1,0 +1,2 @@
+1) the directory will be fitted for a git repository
+2) it is a temporary directory for uncommitted files, i want to have in the repository
